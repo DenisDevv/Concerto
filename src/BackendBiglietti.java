@@ -16,5 +16,4 @@ public class BackendBiglietti extends Thread {
             }
         }
     }
-
 }
